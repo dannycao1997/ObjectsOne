@@ -31,12 +31,5 @@ public class Main {
         Dog dog2 = new Dog("white", 1, "lab");
         Dog dog3 = new Dog("black", 4, "pit");
 
-        
-
-
-
-
-
-
     }
 }

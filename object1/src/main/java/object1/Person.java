@@ -19,6 +19,5 @@ class Person {
         Person person1 = new Person("Danny", 30, 0);
 
         /* Now you can use the Object `person1` */
-
     }
 }
